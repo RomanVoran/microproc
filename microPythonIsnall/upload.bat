@@ -1,1 +1,1 @@
-ampy --port COM7 put main.py
+ampy --port COM9 put main.py
